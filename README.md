@@ -7,4 +7,9 @@ The Camera calibration is based on OpenCV
 - Then you can use QtCreator open the "calibrate.pro" file , finally ,change the "INCLUDEPATH" and  "LIBS" in it.
 
 ## Result
-
+<p align="center">
+<img src="https://github.com/suljaxm/calibrate/blob/master/Original.png" width="640" height="480" border="50"/>
+</p>
+<p align="center">
+<img src="https://github.com/suljaxm/calibrate/blob/master/Undistorted.png" width="640" height="480" border="50"/>
+</p>
